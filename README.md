@@ -1,6 +1,9 @@
 # AlmacenesRosario
 Herramienta para facilitar la búsqueda de almacenes cercanos en la ciudad de Rosario
 
+## Documentación swagger de la API
+https://editor.swagger.io/?url=https://raw.githubusercontent.com/Hackfun-Rosario/ArCovidRos/master/server/almacenes-swagger.yml
+
 ## Fuentes
 
 ### Centro de almaceneros de Rosario
